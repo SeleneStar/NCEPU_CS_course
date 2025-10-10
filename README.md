@@ -1,11 +1,11 @@
 #  华北电力大学计算机系课程攻略
 ![图片](图片/givea_star.png)
 
-[![](https://img.shields.io/github/watchers/IammyselfJGX/NCEPU_CS_course.svg)](https://github.com/IammyselfJGX/NCEPU_CS_course/watchers)
-[![](https://img.shields.io/github/stars/IammyselfJGX/NCEPU_CS_course.svg)](https://github.com/IammyselfJGX/NCEPU_CS_course/stargazers)
-[![](https://img.shields.io/github/forks/IammyselfJGX/NCEPU_CS_course.svg)](https://github.com/IammyselfJGX/NCEPU_CS_course/network/members)
-![](https://img.shields.io/github/repo-size/IammyselfJGX/NCEPU_CS_course.svg)
-[![](https://img.shields.io/github/contributors/IammyselfJGX/NCEPU_CS_course.svg)](https://github.com/IammyselfJGX/NCEPU_CS_course/graphs/contributors)
+[![](https://img.shields.io/github/watchers/IammyselfJGX/NCEPU_CS_course.svg)](https://github.com/SeleneStar/NCEPU_CS_course/watchers)
+[![](https://img.shields.io/github/stars/IammyselfJGX/NCEPU_CS_course.svg)](https://github.com/SeleneStar/NCEPU_CS_course/stargazers)
+[![](https://img.shields.io/github/forks/IammyselfJGX/NCEPU_CS_course.svg)](https://github.com/SeleneStar/NCEPU_CS_course/network/members)
+![](https://img.shields.io/github/repo-size/SeleneStar/NCEPU_CS_course.svg)
+[![](https://img.shields.io/github/contributors/SeleneStar/NCEPU_CS_course.svg)](https://github.com/IammyselfJGX/NCEPU_CS_course/graphs/contributors)
 
 
 ## 介绍
